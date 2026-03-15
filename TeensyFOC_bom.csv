@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"J1, J2",PinSocket_1x14_P2.54mm_Vertical,2,Conn_01x14,
+"J10, J3",PinSocket_1x05_P2.54mm_Vertical,2,Conn_01x05,
+"J11, J9",PinSocket_1x04_P2.54mm_Vertical,2,Conn_01x04,
+J4,JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical,1,Conn_01x05,
+J5,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,1,Conn_01x04,
+J6,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,1,Conn_01x03,
+J7,PinSocket_1x07_P2.54mm_Vertical,1,Conn_01x07,
+J8,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,1,Conn_01x02,
